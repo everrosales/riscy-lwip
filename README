@@ -1,3 +1,5 @@
+This is a port of LWIP for riscy's Ethernet Lite Connectal Project
+
 INTRODUCTION
 
 lwIP is a small independent implementation of the TCP/IP protocol
